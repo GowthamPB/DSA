@@ -15,7 +15,7 @@ public class Combination {
         System.out.println("Enter the values for n and r");
         int n= input.nextInt();
         int r= input.nextInt();
-        int combination=factorial(n)/factorial(n-r)*factorial(r);
-        System.out.println("THe permutation is "+permutation);
+        int combination=factorial(n)/(factorial(n-r)*factorial(r));
+        System.out.println("THe permutation is "+combination);
     }
 }
