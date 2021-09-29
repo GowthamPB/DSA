@@ -1,12 +1,14 @@
 # 💻 Data structures and Algorithms
 
------------------------------------------------------------------------------------------------
+------------------------------------------  
+    
+    Aim: To solve atleast 2 leetcode problems daily
 
 <table>
   <tr>
     <th>Date</th>
     <th>Topic</th>
-    <th>Problem</th>
+    <th>Problems</th>
   </tr> 
   <tr>
     <td>30-09-2021</td>
