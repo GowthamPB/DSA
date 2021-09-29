@@ -5,9 +5,9 @@
 
 <table>
   <tr>
-    <th>DATE</th>
-    <th>TOPIC</th>
-    <th>PROBLEM</th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Problem</th>
   </tr> 
   <tr>
     <td>30-09-2021</td>
