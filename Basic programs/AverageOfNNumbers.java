@@ -7,7 +7,7 @@ public class AverageOfNNumbers {
         Scanner input=new Scanner(System.in);
         int sum=0,count=0;
         float average=0;
-        System.out.print("Enter numbers to take average: ");//0 as input means stop
+        System.out.print("Enter numbers to take average(0 means stop): ");//0 as input means stop
         while(true){
             int number=input.nextInt();
             if(number==0)
