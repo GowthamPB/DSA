@@ -1,6 +1,5 @@
-//Subtract the Product and Sum of Digits of an Integer
-//Given an integer number n, return the difference between the product of its digits and the sum of its digits.
-//https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+package com.dsa.functions;
+
 public class Solution {
     public int subtractProductAndSum(int n) {
         int product = 1, sum = 0;
@@ -21,3 +20,6 @@ public class Solution {
         System.out.println(result);
     }
 }
+//Subtract the Product and Sum of Digits of an Integer
+//Given an integer number n, return the difference between the product of its digits and the sum of its digits.
+//https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
