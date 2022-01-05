@@ -31,5 +31,4 @@
     <td><a href="https://leetcode.com/problems/richest-customer-wealth/">Richest Customer Wealth</a></td>
   </tr>
 
-
 </table>
