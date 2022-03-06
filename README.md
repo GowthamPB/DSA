@@ -2,6 +2,10 @@
 
 ------------------------------------------  
 
+I am solving DSA problems on Leetcode and GeeksforGeeks.
+
+You can check my progress <a href="https://docs.google.com/spreadsheets/d/1Q0L9J46hmmBJX1FERNDF8rnV6-XvPOLLsgWAmy4nzRQ/edit?usp=sharing">here</a>
+<!-- 
     Aim: To solve atleast 2 leetcode problems daily
 
 <table>
@@ -32,3 +36,4 @@
   </tr>
 
 </table>
+ -->
