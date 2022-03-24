@@ -2,7 +2,5 @@
 
 ------------------------------------------  
 
-I am solving DSA problems on Leetcode.
-
-    Aim: To crack a good product based company
+It's about drive, it's about power, we do leetcoding every hour xD
 
