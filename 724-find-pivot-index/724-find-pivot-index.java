@@ -9,13 +9,10 @@ class Solution {
             for(int j=i+1;j<nums.length;j++){
                 right_sum+=nums[j];
             }
-            // if(left_sum==right_sum && left_sum==0){
-            //     return 0;
-            // }
             if(left_sum==right_sum){
                     return i;
-                }
             }
+        }
         return -1;
     }
 }
