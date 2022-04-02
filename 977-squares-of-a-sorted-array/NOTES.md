@@ -1,3 +1,4 @@
+**Using Sort method**
 ```
 class Solution {
 public int[] sortedSquares(int[] nums) {
@@ -9,7 +10,7 @@ return nums;
 }
 }
 ```
-​
+**Using normal approach**
 ```
 class Solution {
 public int[] sortedSquares(int[] nums) {
