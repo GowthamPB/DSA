@@ -60,13 +60,7 @@ class Compute
 {
     static pair getMinMax(long a[], long n)  
     {
-        long min=Long.MAX_VALUE,max=Long.MIN_VALUE;
-        for(int i=0;i<a.length;i++){
-            if(a[i]>max)
-                max=a[i];
-            if(a[i]<min)
-                min=a[i];
-        }
-        return new pair(min,max);
+        Arrays.sort(a);
+        return new pair(a[0],a[a.length-1]);
     }
 }
